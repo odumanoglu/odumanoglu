@@ -1,12 +1,12 @@
-### Hakkımda
+### About Me
 
-Kastamonu Üniversitesi'nde Bilgisayar Programcılığı bölümü öğrencisiyim.Çalışmalarım temel olarak nesne yönelimli programlama, oyun geliştirme, veri bilimi ve web teknolojileri etrafında şekillenmektedir.
+I am a Computer Programming student at Kastamonu University. My work primarily focuses on object-oriented programming, game development, data science, and web technologies.
 
-**Çalışma Alanlarım:**
-* **Oyun Geliştirme:** Unity ve C# kullanarak 2D oyun prototipleri (karakter mekanikleri, tilemap tasarımı, çarpışma algılama) tasarlıyorum.
-* **Veri Bilimi ve Makine Öğrenmesi:** Python (Pandas, Scikit-learn) kullanarak çeşitli veri setleri üzerinde (örneğin Alzheimer veri seti) sınıflandırma modelleri ve analizler geliştiriyorum.
-* **Yazılım ve Web:** C# ve .NET mimarisi üzerinde çalışıyor; HTML, CSS ve PHP kullanarak yerel sunucu tabanlı web arayüzleri oluşturuyorum. Veritabanı yönetimi için SQL Server kullanıyorum.
-* **Proje Geliştirme:** Teknofest Sağlıkta Yapay Zeka gibi kategoriler için konsept projeler (örn: akıllı gıda asistanı) ve teknik dokümantasyonlar hazırlıyorum.
+**My Areas of Focus:**
+* **Game Development:** I design 2D game prototypes (character mechanics, tilemap design, collision detection) using Unity and C#.
+* **Data Science & Machine Learning:** I develop classification models and perform data analysis on various datasets (e.g., Alzheimer's dataset) using Python (Pandas, Scikit-learn).
+* **Software & Web:** I work on C# and .NET architecture, and build local server-based web interfaces using HTML, CSS, and PHP. I use SQL Server for database management.
+* **Project Development:** I prepare concept projects (e.g., a smart food assistant) and technical documentation for categories like Teknofest's Artificial Intelligence in Health.
 
 ### Tech stack
 
